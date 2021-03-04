@@ -2,7 +2,7 @@
 ::========================================================================================================================================================================================================================================================== 
 :: [X] Automate a recursive copy operation for a client who writes:
 :: "Hello IT team, thanks for setting up my new internal hard drive last week. It works great, and I've been manually copying my work files on the desktop every night before I head home. I was curious if there's a way to automate this process? Thanks!"
-:: [X] Schedule the script to execute every night at midnight (Configured using Task Scheduler
+:: [X] Schedule the script to execute every night at midnight (Configured using Task Scheduler)
 :: [X] Have the script generate a log file of what took place
 ::==========================================================================================================================================================================================================================================================
 
